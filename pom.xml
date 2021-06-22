@@ -24,7 +24,7 @@
   <parent>
     <groupId>org.codehaus.mojo</groupId>
     <artifactId>mojo-parent</artifactId>
-    <version>61</version>
+    <version>63</version>
   </parent>
 
   <artifactId>flatten-maven-plugin</artifactId>
@@ -167,7 +167,7 @@
     <dependency>
       <groupId>org.assertj</groupId>
       <artifactId>assertj-core</artifactId>
-      <version>3.18.1</version>
+      <version>3.20.2</version>
       <scope>test</scope>
     </dependency>
     <dependency>
